@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-nishchay-100-sharma/precache-manifest.54df053954a80246a94956b912fa3707.js"
+  "/Crio-Launch-Feb-2020-nishchay-100-sharma/precache-manifest.a860557d98f86306113f8319783af335.js"
 );
 
 self.addEventListener('message', (event) => {
